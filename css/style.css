@@ -16,6 +16,11 @@ h1  {
         color: #005677;
         letter-spacing: 0.3em;
     }
+    iframe{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
     div{
         text-align: center;
         background-color:#E6E6E6;
